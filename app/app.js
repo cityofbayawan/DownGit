@@ -1,6 +1,6 @@
 /***********************************************************
-* Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
-* Website: https://github.com/MinhasKamal/DownGit          *
+* Developer: Samuel Betio (samuelbetio@gmail.com)       *
+* Website: https://github.com/samuelbetio/DownGit          *
 * License: MIT License                                     *
 ***********************************************************/
 
