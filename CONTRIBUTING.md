@@ -1,6 +1,6 @@
 ﻿# DownGit contributing document
 
- - Please read the instructions about sparseCheckout and shallow clone before any git clone operation to this huge repository: [documents/sparseCheckout.md](https://github.com/cdnjs/cdnjs/blob/master/documents/sparseCheckout.md), especially if you are using MacOS which uses case-insensitive filesystem by default, will bring you other issues.
+ - Please read the instructions about DownGit and shallow clone before any git clone operation to this huge repository: [documents/README.md](https://github.com/cityofbayawan/DownGit/blob/master/README.md), especially if you are using MacOS which uses case-insensitive filesystem by default, will bring you other issues.
  - Please make sure you are not going to submit a personal library, we have popularity requirement for the libraries, for the detail, see: [issue](#b-request-a-new-library)
 
 ## Table of Contents
