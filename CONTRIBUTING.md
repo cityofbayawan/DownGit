@@ -39,7 +39,7 @@
 
 * If you are going to open a issue about your library (means you are the author/maintainer or one of the main authors/maintainers), please add `[author]` on the issue topic, we'll give it a higher priority to process.
 
-* Please tag obviously related people or issues or commits on the issue as cc (carbon copy). For example, [@PeterDaveHello](https://github.com/PeterDaveHello) / [#3388](https://github.com/cdnjs/cdnjs/issues/3388) / [51e1bd713f](https://github.com/cdnjs/cdnjs/commit/51e1bd713fa31fec271bbbcf565131e77536bdf2)
+* Please tag obviously related people or issues or commits on the issue as cc (carbon copy). For example, [@cityofbayawan](https://github.com/https://github.com/cityofbayawan/DownGit) / [#1](https://github.com/samuelbetio/DownGit/issues/1) / [Search does not work with large folders](https://github.com/samuelbetio/DownGit/issues/4)
 
 ### b. request a new library
 
