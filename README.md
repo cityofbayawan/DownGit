@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/samuelbetio/DownGit/blob/master/res/images/downgit%20(1).png" width="20" height=auto /> DownGit </h1>
+<h1> <img src="https://github.com/samuelbetio/DownGit/blob/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
 [![Gitter](https://badges.gitter.im/samuelbetio/DownGit.svg)](https://gitter.im/samuelbetio/DownGit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
